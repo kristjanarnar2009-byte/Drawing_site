@@ -26,7 +26,7 @@
 
 **Hvað á agentinn nákvæmlega að gera? Skiptu stórum verkum niður.**
 
-1. [First á að búa til heimasíðuna sem hefur Síu, og þegar maður ýttir á hana sýnir þrjá takka]
+1. [First á að búa til heimasíðuna sem hefur Síu, og þegar maður ýttir á Síuna á það að sýnir þrjá takka. Efsti takkin er heima takkin sem fer mann á heima síðuna. Library takkin er í miðjunni, það getur maður séð allar teikningarnar sem maður hefur gert. Síðasti takkinn heitir Settings og það fer man í settings.]
 2. [Verkþáttur 2]
 3. [Verkþáttur 3]
 
@@ -48,7 +48,7 @@
 
 **Tækni, stíll, tungumál, öryggi, samþykki, tími o.s.frv.**
 
-- [Krafa eða takmörkun]
+- [Aðaltungumálið er Enska.]
 
 ## 08. Samþykktarskilyrði (Acceptance Criteria)
 

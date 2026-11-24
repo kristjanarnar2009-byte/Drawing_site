@@ -34,7 +34,7 @@
 
 **Hvaða skrár, möppur, síður eða þættir tilheyra verkefninu?**
 
-- [Það sem má vinna í]
+- [Það sem má vinna í er Drawing möppuni og allt sem er í þeiri möppu.]
 
 ---
 
@@ -42,7 +42,7 @@
 
 **Hvað á agentinn EKKI að breyta eða gera?**
 
-- [Þú mátt ekki fara í neina ]
+- [Þú mátt ekki fara í aðrar möppur eða skrár. Ekki færa neinu og ekki heldur eyða neinu.]
 
 ## 07. Kröfur og takmarkanir (Constraints)
 

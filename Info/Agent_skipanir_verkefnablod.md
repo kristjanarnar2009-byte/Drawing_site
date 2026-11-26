@@ -26,15 +26,17 @@
 
 **Hvað á agentinn nákvæmlega að gera? Skiptu stórum verkum niður.**
 
-1. [First á að búa til heimasíðuna sem hefur Síu, og þegar maður ýttir á Síuna á það að sýnir þrjá takka. Efsti takkin er heima takkin sem fer mann á heima síðuna. Library takkin er í miðjunni, það getur maður séð allar teikningarnar sem maður hefur gert. Síðasti takkinn heitir Settings og það fer man í settings.]
-2. [Verkþáttur 2]
+1. [First á að búa til heimasíðuna sem er aðalsíðan. Það hefur líka Síu, og þegar maður ýttir á Síuna á það að sýnir þrjá takka. Efsti takkin heitir heim, miðju takkin heitir Library og neðsti takkin heitir Settings. Það er add kassi sem á að ýtta á til að geta teiknað. Neðst á hemasíðuna er hægt að sjá Comments hjá öðru fólki og líka hægt að skrifa sitt eigið comment. Efst í hægra horninu verður profile mynd af sér sjálfum.]
+
+2. [Þegar ýtt er á Library takkan fer maður í library-ið sitt. Þar eru alla myndirnar geymdar sem maður hefur gert á öruggum stað. Efst í hægra horninu er þar sem profile ið sitt er. Efst í vinstra horninu verða tveir takkar, hinn heitir heim og tekur man aftur á aðalsíðuna og takkin sem er fyrir hliðina heitir settings og tekkur man í settings.]
+
 3. [Verkþáttur 3]
 
 ## 05. Umfang (Scope)
 
 **Hvaða skrár, möppur, síður eða þættir tilheyra verkefninu?**
 
-- [Það sem má vinna í er Drawing möppuni og allt sem er í þeiri möppu.]
+- [Það sem má vinna í er Drawing möppuni og allt sem er í þeiri möppu, en ekki búa til nýtt skjal.]
 
 ---
 
@@ -42,7 +44,7 @@
 
 **Hvað á agentinn EKKI að breyta eða gera?**
 
-- [Þú mátt ekki fara í aðrar möppur eða skrár. Ekki færa neinu og ekki heldur eyða neinu.]
+- [Þú mátt ekki fara í aðrar möppur eða skrár. Ekki færa neinu og ekki heldur eyða neinu. Þú mátt heldur ekki breyta neinu eða að fara í kerfið á tölvunni minni. Ekki heldur búa til nýtt skjal]
 
 ## 07. Kröfur og takmarkanir (Constraints)
 
@@ -54,7 +56,7 @@
 
 **Sýnileg og mælanleg skilyrði. Hvert skilyrði þarf að vera prófanlegt.**
 
-- [ ] AC-01: [Hvernig sjáum við að fyrsta skilyrðið er uppfyllt?]
+- [ ] AC-01: [Það er hægt að reloada Page-ið ef það koma villur eða errors]
 - [ ] AC-02: [Hvernig sjáum við að annað skilyrðið er uppfyllt?]
 - [ ] AC-03: [Hvernig sjáum við að þriðja skilyrðið er uppfyllt?]
 

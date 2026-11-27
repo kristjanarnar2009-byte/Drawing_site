@@ -30,7 +30,7 @@
 
 2. [Þegar ýtt er á Library takkan fer maður í library-ið sitt. Þar eru alla myndirnar geymdar sem maður hefur gert á öruggum stað. Efst í hægra horninu er þar sem profile ið sitt er. Efst í vinstra horninu verða tveir takkar, hinn heitir heim og tekur man aftur á aðalsíðuna og takkin sem er fyrir hliðina heitir settings og tekkur man í settings.]
 
-3. [Verkþáttur 3]
+3. []
 
 ## 05. Umfang (Scope)
 
@@ -44,27 +44,27 @@
 
 **Hvað á agentinn EKKI að breyta eða gera?**
 
-- [Þú mátt ekki fara í aðrar möppur eða skrár. Ekki færa neinu og ekki heldur eyða neinu. Þú mátt heldur ekki breyta neinu eða að fara í kerfið á tölvunni minni. Ekki heldur búa til nýtt skjal]
+- [Þú mátt ekki fara í aðrar möppur eða skrár. Ekki færa neinu og ekki heldur eyða neinu. Þú mátt heldur ekki breyta neinu eða að fara í kerfið á tölvunni minni. Ekki heldur búa til ný skjöl og heldur ekki að fara á netið.]
 
 ## 07. Kröfur og takmarkanir (Constraints)
 
 **Tækni, stíll, tungumál, öryggi, samþykki, tími o.s.frv.**
 
-- [Aðaltungumálið er Enska.]
+- [Aðaltungumálið er Enska. Bakgrunnurinn verður ljós græn. Forritunar tungumálið á að vera nútíma vefforritunarmál.]
 
 ## 08. Samþykktarskilyrði (Acceptance Criteria)
 
 **Sýnileg og mælanleg skilyrði. Hvert skilyrði þarf að vera prófanlegt.**
 
-- [ ] AC-01: [Það er hægt að reloada Page-ið ef það koma villur eða errors]
-- [ ] AC-02: [Hvernig sjáum við að annað skilyrðið er uppfyllt?]
-- [ ] AC-03: [Hvernig sjáum við að þriðja skilyrðið er uppfyllt?]
+- [ ] AC-01: [Það er hægt að reloada Page-ið ef það koma upp villur eða errors svo að það gæti lagast.þ]
+- [ ] AC-02: [Það er hægt að eyða Commentinn sinn og það er líka hægt að editað commentin sinn]
+- [ ] AC-03: [Notendur munu geta breytt suma hluti in á settings.]
 
 ## 09. Prófanir og staðfesting (Verification)
 
 **Hvernig á að prófa að niðurstaðan uppfylli skilyrðin?**
 
-- [ ] [Prófun og vænt niðurstaða]
+- [ ] [Mig langar að það athugar hvort það mættir requirementinn]
 - [ ] [Prófun og vænt niðurstaða]
 
 ## 10. Heimildir og viðmið (References)
